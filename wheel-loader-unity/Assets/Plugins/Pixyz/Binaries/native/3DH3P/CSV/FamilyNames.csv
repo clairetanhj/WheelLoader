@@ -1,0 +1,84 @@
+NAME(Used only as reminder for value);VALUE;LABEL
+OdBm::FamilyName::Unknown;-1;Unknown
+OdBm::FamilyName::Floor;0;Floor
+OdBm::FamilyName::Level;1;Level
+OdBm::FamilyName::BasicRoof;2;Basic Roof
+OdBm::FamilyName::SlopedGlazing;3;Sloped Glazing
+OdBm::FamilyName::BasicWall;4;Basic Wall
+OdBm::FamilyName::CurtainWall;5;Curtain Wall
+OdBm::FamilyName::RectangularCurtainWall;6;Rectangular Curtain Wall
+OdBm::FamilyName::NRCurtainWall;7;Non-Rectangular Curtain Wall
+OdBm::FamilyName::StackedWall;8;Stacked Wall
+OdBm::FamilyName::ReferencePlane;9;Reference Plane
+OdBm::FamilyName::HandrailType;10;Handrail Type
+OdBm::FamilyName::TopRailType;11;Top Rail Type
+OdBm::FamilyName::Railing;12;Railing
+OdBm::FamilyName::Pad;13;Pad
+OdBm::FamilyName::BasicCeiling;14;Basic Ceiling
+OdBm::FamilyName::CompoundCeiling;15;Compound Ceiling
+OdBm::FamilyName::RoofSoffit;16;Roof Soffit
+OdBm::FamilyName::FoundationSlab;17;Foundation Slab
+OdBm::FamilyName::ModelGroup;18;Model Group
+OdBm::FamilyName::DetailGroup;19;Detail Group
+OdBm::FamilyName::ContourLabels;20;Contour Labels
+OdBm::FamilyName::CurtainSystem;21;Curtain System
+OdBm::FamilyName::FilledRegion;22;Filled region
+OdBm::FamilyName::ElevationTag;23;Elevation Tag
+OdBm::FamilyName::SectionTag;24;Section Tag
+OdBm::FamilyName::NonMonolithicRun;25;Non-Monolithic Run
+OdBm::FamilyName::MonolithicRun;26;Monolithic Run
+OdBm::FamilyName::AssembledStair;27;Assembled Stair
+OdBm::FamilyName::PrecastStair;28;Precast Stair
+OdBm::FamilyName::CastInPlaceStair;29;Cast-In-Place Stair
+OdBm::FamilyName::FixedUpDirection;30;Fixed Up Direction
+OdBm::FamilyName::ContFootingType;31;Wall Foundation
+OdBm::FamilyName::AutomaticUpDownDirection;32;Automatic Up / Down Direction
+OdBm::FamilyName::RbsPipeType;33;Pipe Types
+OdBm::FamilyName::Label;34;Label
+OdBm::FamilyName::Grid;35;Grid
+OdBm::FamilyName::Text;36;Text
+OdBm::FamilyName::RectangularDuct;37;Rectangular Duct
+OdBm::FamilyName::RoundDuct;38;Round Duct
+OdBm::FamilyName::OvalDuct;39;Oval Duct
+OdBm::FamilyName::DBView_ThreeDimensional;40;3D View
+OdBm::FamilyName::DBViews_ThreeDimensional;41;3D Views
+OdBm::FamilyName::DBView_Walkthrough;42;Walkthrough
+OdBm::FamilyName::DBViews_Walkthrough;43;Walkthroughs
+OdBm::FamilyName::DBView_ImageView;44;Rendering
+OdBm::FamilyName::DBViews_ImageView;45;Renderings
+OdBm::FamilyName::DBView_Schedule;46;Schedule
+OdBm::FamilyName::DBViews_Schedule;47;Schedules
+OdBm::FamilyName::DBView_CostReport;48;Cost Report
+OdBm::FamilyName::DBViews_CostReport;49;Cost Reports
+OdBm::FamilyName::DBView_Sheet;50;Sheet
+OdBm::FamilyName::DBViews_Sheet;51;Sheets
+OdBm::FamilyName::DBView_Drafting;52;Drafting View
+OdBm::FamilyName::DBViews_Drafting;53;Drafting Views
+OdBm::FamilyName::DBView_FloorPlan;54;Floor Plan
+OdBm::FamilyName::DBViews_FloorPlan;55;Floor Plans
+OdBm::FamilyName::DBView_AreaPlan;56;Area Plan
+OdBm::FamilyName::DBViews_AreaPlan;57;Area Plans
+OdBm::FamilyName::DBView_CeilingPlan;58;Ceiling Plan
+OdBm::FamilyName::DBViews_CeilingPlan;59;Ceiling Plans
+OdBm::FamilyName::DBView_Section;60;Section
+OdBm::FamilyName::DBViews_Section;61;Sections
+OdBm::FamilyName::DBView_Detail;62;Detail View
+OdBm::FamilyName::DBViews_Detail;63;Detail Views
+OdBm::FamilyName::DBView_Elevation;64;Elevation
+OdBm::FamilyName::DBViews_Elevation;65;Elevations
+OdBm::FamilyName::DBView_LoadsReport;66;Loads Report
+OdBm::FamilyName::DBViews_LoadsReport;67;Loads Reports
+OdBm::FamilyName::DBView_PressureLossReport;68;Pressure Loss Report
+OdBm::FamilyName::DBViews_PressureLossReport;69;Pressure Loss Reports
+OdBm::FamilyName::DBView_Legend;70;Legend
+OdBm::FamilyName::DBViews_Legend;71;Legends
+OdBm::FamilyName::DBView_PanelSchedule;72;Panel Schedule
+OdBm::FamilyName::DBViews_PanelSchedule;73;Panel Schedules
+OdBm::FamilyName::DBView_GraphicalColumnSchedule;74;Graphical Column Schedule
+OdBm::FamilyName::DBViews_GraphicalColumnSchedule;75;Graphical Column Schedules
+OdBm::FamilyName::DBView_StructuralPlan;76;Structural Plan
+OdBm::FamilyName::DBViews_StructuralPlan;77;Structural Plans
+OdBm::FamilyName::RebarBarType;78;Rebar Bar
+OdBm::FamilyName::DBView_AnalysisReport;79;Analysis Report
+OdBm::FamilyName::DBViews_AnalysisReport;80;Analysis Reports
+OdBm::FamilyName::RebarShape;80;Rebar Shape

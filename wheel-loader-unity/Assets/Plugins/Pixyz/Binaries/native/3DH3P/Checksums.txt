@@ -1,0 +1,11 @@
+CSV/BuiltInCategories.csv;87f308e62632bb6261d671cc20b16ff345d0a8ec;
+CSV/BuiltInParameters.csv;40375acc0e5b78339227e78436ae8f99365fe1bf;
+CSV/BuiltInParameterGroups.csv;873bac6cb429ca90a24b84c8ce71ddb6e70faf89;
+CSV/ParameterTypes.csv;9d8a2c86252e9afc75af32e7613182b7999aa634;
+CSV/DisplayUnitTypes.csv;285d5fcd7bec365bc952be38d974761fb2b8be04;
+CSV/UnitSymbolTypes.csv;fdf1b6f753cad24d28467382837a41eb60eb5ad7;
+CSV/UnitTypes.csv;d0bc8cf0dd00a2fbaf8296e55b933bfbb824c097;
+CSV/FamilyNames.csv;f22d4329a3496bacf74726bc3d028262a5a1add2;
+CSV/SystemTypes.csv;a69334a329fa03ad70ef89c40ab996a05e6f6c2a;
+CSV/AreaSpaceTypes.csv;d62ced080b23e8bd565adc6ef5db8a88ea4236c8;
+CSV/OmniClasses.csv;f8d4e85550bc8912842ff1b8999c3d593f6d8dce;

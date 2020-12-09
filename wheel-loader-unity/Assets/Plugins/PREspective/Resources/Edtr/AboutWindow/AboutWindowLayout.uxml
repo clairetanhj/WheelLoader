@@ -1,0 +1,69 @@
+<UXML xmlns:ui="UnityEngine.UIElements" xmlns:ue="UnityEditor.UIElements" xmlns:pre="u040.prespective">
+    <ui:ScrollView>
+        <ui:VisualElement class="window-padding-container">
+            <ui:ScrollView>
+                <ui:VisualElement name="logo" />
+				<ui:Label class="display-none" name="recompiling-message" text="The project is being recompiled using .NET 4.6. Please wait..." />
+				<ui:VisualElement name="content">
+					<ui:VisualElement class="row margin-bottom-10px">
+					    <ui:Label text="Version: " />
+					    <ui:Label name="version" text="[No DLL Version]"/>
+					</ui:VisualElement>
+					<ui:TextElement class="display-none margin-vertical-10px" name="first-use-message" text="Thank you for downloading Prespective! This About window will help you find our user documentation and bug reporter. When updates to Prespective are avaible, you will also be notified through this window. For future use, access this window by selecting 'PREspective → About' from the menu."/>
+					<ui:Foldout name="settings-foldout" value="false" text="Required Project Settings">
+					    <ui:TextElement class="margin-bottom-10px" text="Prespective requires specific Unity Project Settings. Please review the settings below."/>
+					    <ui:VisualElement class="settings-table" name="required-settings">
+					        <ui:VisualElement class="settings-column">
+					            <ui:Label class="bold settings-table-cell" text="Setting" />
+					            <ui:Label class="settings-table-cell" text="API Compatibility Level" />
+					            <ui:Label class="settings-table-cell" text="Physics Friction Type" />
+					        </ui:VisualElement>
+							<ui:VisualElement class="settings-column">
+								<ui:Label class="bold settings-table-cell" text="Required" />
+								<ui:Label class="settings-table-cell" text="NET_4_6" />
+								<ui:Label class="settings-table-cell" text="Two Directional Friction" />
+							</ui:VisualElement>
+					        <ui:VisualElement class="settings-column">
+					            <ui:Label class="bold settings-table-cell" text="Current" />
+					            <ui:Label class="settings-table-cell" name="current-compatibility-level" />
+					            <ui:Label class="settings-table-cell" name="current-friction-type" />
+					        </ui:VisualElement>
+					    </ui:VisualElement>
+						<ui:Button text="Apply Required Settings" name="apply-required-settings"/>
+					</ui:Foldout>
+					<ui:Foldout name="update-foldout" value="false" text="Update">
+						<ui:VisualElement class="row margin-bottom-10px" name="up-to-date">
+							<ui:Label name="up-to-date" text="Your version is up to date." />
+							<ui:Image name="manual-update-check" tooltip="Manually check for updates"/>
+						</ui:VisualElement>
+						<ui:VisualElement class="row display-none margin-bottom-10px" name="error-current-version">
+							<ui:VisualElement class="warning-icon" />
+							<ui:TextElement text="Failed to get DLL version" style="-unity-text-align: middle-left"/>
+						</ui:VisualElement>
+						<ui:VisualElement class="row display-none margin-bottom-10px" name="error-latest-version">
+							<ui:VisualElement class="warning-icon" />
+							<ui:TextElement text="Failed to get latest version" style="-unity-text-align: middle-left"/>
+						</ui:VisualElement>
+						<ui:VisualElement class="display-none" name="available-update">
+							<ui:VisualElement class="row margin-bottom-10px">
+								<ui:Label text="New version available: " />
+								<ui:Label name="available-version" />
+							</ui:VisualElement>
+							<ui:VisualElement class="row margin-bottom-10px">
+								<ui:VisualElement class="warning-icon" style="width: 26px"/>
+								<ui:TextElement text="Updating can break functionalities in your current project. Make sure you have made a backup of your project files." style="-unity-text-align: middle-left"/>
+							</ui:VisualElement>
+							<ui:VisualElement class="row margin-bottom-10px">
+								<ui:Toggle value="false" name="backup-confirmation" text="I have made a backup" />
+								<ui:Button enabled="false" text="Update" name="update-button" />
+							</ui:VisualElement>
+							<ui:Toggle class="margin-bottom-10px" name="notify-updates" text="Notify on start when updates are available" />
+						</ui:VisualElement>
+					</ui:Foldout>
+					<ui:Button class="menu-button" name="user-documentation-button" text="Open User Documentation" />
+					<ui:Button class="menu-button" name="report-bug-button" text="Report a Bug" />
+				</ui:VisualElement>
+            </ui:ScrollView>
+        </ui:VisualElement>
+    </ui:ScrollView>
+</UXML>

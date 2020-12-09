@@ -1,0 +1,45 @@
+Button {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.window-padding-container {
+	padding: 10px 25px;
+}
+
+.bold {
+	-unity-font-style: bold;
+}
+
+.row {
+	flex-direction: row;
+}
+
+Foldout {
+	margin-bottom: 10px;
+}
+
+.unity-foldout__toggle Label {
+	-unity-font-style: bold;
+}
+
+.unity-foldout__content {
+	padding: 3px 5px 5px 3px;
+}
+
+.margin-vertical-10px {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.margin-bottom-10px {
+	margin-bottom: 10px;
+}
+
+.display-none {
+	display: none;
+}
+
+.warning-icon {
+	margin-right: 8px;
+}

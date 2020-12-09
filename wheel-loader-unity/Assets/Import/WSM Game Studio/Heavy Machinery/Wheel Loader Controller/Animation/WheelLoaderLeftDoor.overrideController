@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: WheelLoaderLeftDoor
+  m_Controller: {fileID: 9100000, guid: f40133ae745489e4ea6d1a807ef91564, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 46b921887a4f5e94898dd51efe67ec34, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 375ade5a83de8eb4b8f89426025ef580, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 85beb16a2598c5b4e8ed2ef5b78373c2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2cc41203adade0d42a0a220c74b43504, type: 2}

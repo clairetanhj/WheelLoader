@@ -1,0 +1,250 @@
+NAME(Used only as reminder for value);VALUE;LABEL
+OdBm::DisplayUnitType::DUT_UNDEFINED;-2;ODBM_CSV_NULL
+OdBm::DisplayUnitType::DUT_CUSTOM;-1;ODBM_CSV_NULL
+OdBm::DisplayUnitType::DUT_METERS;0;Meters
+OdBm::DisplayUnitType::DUT_CENTIMETERS;1;Centimeters
+OdBm::DisplayUnitType::DUT_MILLIMETERS;2;Millimeters
+OdBm::DisplayUnitType::DUT_DECIMAL_FEET;3;Decimal feet
+OdBm::DisplayUnitType::DUT_FEET_FRACTIONAL_INCHES;4;Feet and fractional inches
+OdBm::DisplayUnitType::DUT_FRACTIONAL_INCHES;5;Fractional inches
+OdBm::DisplayUnitType::DUT_DECIMAL_INCHES;6;Decimal inches
+OdBm::DisplayUnitType::DUT_ACRES;7;Acres
+OdBm::DisplayUnitType::DUT_HECTARES;8;Hectares
+OdBm::DisplayUnitType::DUT_METERS_CENTIMETERS;9;Meters and centimeters
+OdBm::DisplayUnitType::DUT_CUBIC_YARDS;10;Cubic yards
+OdBm::DisplayUnitType::DUT_SQUARE_FEET;11;Square feet
+OdBm::DisplayUnitType::DUT_SQUARE_METERS;12;Square meters
+OdBm::DisplayUnitType::DUT_CUBIC_FEET;13;Cubic feet
+OdBm::DisplayUnitType::DUT_CUBIC_METERS;14;Cubic meters
+OdBm::DisplayUnitType::DUT_DECIMAL_DEGREES;15;Decimal degrees
+OdBm::DisplayUnitType::DUT_DEGREES_AND_MINUTES;16;Degrees minutes seconds
+OdBm::DisplayUnitType::DUT_GENERAL;17;General
+OdBm::DisplayUnitType::DUT_FIXED;18;Fixed
+OdBm::DisplayUnitType::DUT_PERCENTAGE;19;Percentage
+OdBm::DisplayUnitType::DUT_SQUARE_INCHES;20;Square inches
+OdBm::DisplayUnitType::DUT_SQUARE_CENTIMETERS;21;Square centimeters
+OdBm::DisplayUnitType::DUT_SQUARE_MILLIMETERS;22;Square millimeters
+OdBm::DisplayUnitType::DUT_CUBIC_INCHES;23;Cubic inches
+OdBm::DisplayUnitType::DUT_CUBIC_CENTIMETERS;24;Cubic centimeters
+OdBm::DisplayUnitType::DUT_CUBIC_MILLIMETERS;25;Cubic millimeters
+OdBm::DisplayUnitType::DUT_LITERS;26;Liters
+OdBm::DisplayUnitType::DUT_GALLONS_US;27;US gallons
+OdBm::DisplayUnitType::DUT_KILOGRAMS_PER_CUBIC_METER;28;Kilograms per cubic meter
+OdBm::DisplayUnitType::DUT_POUNDS_MASS_PER_CUBIC_FOOT;29;Pounds per cubic foot
+OdBm::DisplayUnitType::DUT_POUNDS_MASS_PER_CUBIC_INCH;30;Pounds per cubic inch
+OdBm::DisplayUnitType::DUT_BRITISH_THERMAL_UNITS;31;British Thermal Units
+OdBm::DisplayUnitType::DUT_CALORIES;32;Calories
+OdBm::DisplayUnitType::DUT_KILOCALORIES;33;Kilocalories
+OdBm::DisplayUnitType::DUT_JOULES;34;Joules
+OdBm::DisplayUnitType::DUT_KILOWATT_HOURS;35;Kilowatt hours
+OdBm::DisplayUnitType::DUT_THERMS;36;Therms
+OdBm::DisplayUnitType::DUT_INCHES_OF_WATER_PER_100FT;37;Inches of water (60 °F) per 100 feet
+OdBm::DisplayUnitType::DUT_PASCALS_PER_METER;38;Pascals per meter
+OdBm::DisplayUnitType::DUT_WATTS;39;Watts
+OdBm::DisplayUnitType::DUT_KILOWATTS;40;Kilowatts
+OdBm::DisplayUnitType::DUT_BRITISH_THERMAL_UNITS_PER_SECOND;41;BTU (British Thermal Units) per second
+OdBm::DisplayUnitType::DUT_BRITISH_THERMAL_UNITS_PER_HOUR;42;BTU (British Thermal Units) per hour
+OdBm::DisplayUnitType::DUT_CALORIES_PER_SECOND;43;Calories per second
+OdBm::DisplayUnitType::DUT_KILOCALORIES_PER_SECOND;44;Kilocalories per second
+OdBm::DisplayUnitType::DUT_WATTS_PER_SQUARE_FOOT;45;Watts per square foot
+OdBm::DisplayUnitType::DUT_WATTS_PER_SQUARE_METER;46;Watts per square meter
+OdBm::DisplayUnitType::DUT_INCHES_OF_WATER;47;Inches of water (60 °F)
+OdBm::DisplayUnitType::DUT_PASCALS;48;Pascals
+OdBm::DisplayUnitType::DUT_KILOPASCALS;49;Kilopascals
+OdBm::DisplayUnitType::DUT_MEGAPASCALS;50;Megapascals
+OdBm::DisplayUnitType::DUT_POUNDS_FORCE_PER_SQUARE_INCH;51;Pounds per square inch
+OdBm::DisplayUnitType::DUT_INCHES_OF_MERCURY;52;Inches of mercury (32 °F)
+OdBm::DisplayUnitType::DUT_MILLIMETERS_OF_MERCURY;53;Millimeters of mercury
+OdBm::DisplayUnitType::DUT_ATMOSPHERES;54;Atmospheres
+OdBm::DisplayUnitType::DUT_BARS;55;Bars
+OdBm::DisplayUnitType::DUT_FAHRENHEIT;56;Fahrenheit
+OdBm::DisplayUnitType::DUT_CELSIUS;57;Celsius
+OdBm::DisplayUnitType::DUT_KELVIN;58;Kelvin
+OdBm::DisplayUnitType::DUT_RANKINE;59;Rankine
+OdBm::DisplayUnitType::DUT_FEET_PER_MINUTE;60;Feet per minute
+OdBm::DisplayUnitType::DUT_METERS_PER_SECOND;61;Meters per second
+OdBm::DisplayUnitType::DUT_CENTIMETERS_PER_MINUTE;62;Centimeters per minute
+OdBm::DisplayUnitType::DUT_CUBIC_FEET_PER_MINUTE;63;Cubic feet per minute
+OdBm::DisplayUnitType::DUT_LITERS_PER_SECOND;64;Liters per second
+OdBm::DisplayUnitType::DUT_CUBIC_METERS_PER_SECOND;65;Cubic meters per second
+OdBm::DisplayUnitType::DUT_CUBIC_METERS_PER_HOUR;66;Cubic meters per hour
+OdBm::DisplayUnitType::DUT_GALLONS_US_PER_MINUTE;67;US gallons per minute
+OdBm::DisplayUnitType::DUT_GALLONS_US_PER_HOUR;68;US gallons per hour
+OdBm::DisplayUnitType::DUT_AMPERES;69;Amperes
+OdBm::DisplayUnitType::DUT_KILOAMPERES;70;Kiloamperes
+OdBm::DisplayUnitType::DUT_MILLIAMPERES;71;Milliamperes
+OdBm::DisplayUnitType::DUT_VOLTS;72;Volts
+OdBm::DisplayUnitType::DUT_KILOVOLTS;73;Kilovolts
+OdBm::DisplayUnitType::DUT_MILLIVOLTS;74;Millivolts
+OdBm::DisplayUnitType::DUT_HERTZ;75;Hertz
+OdBm::DisplayUnitType::DUT_CYCLES_PER_SECOND;76;Cycles per second
+OdBm::DisplayUnitType::DUT_LUX;77;Lux
+OdBm::DisplayUnitType::DUT_FOOTCANDLES;78;Footcandles
+OdBm::DisplayUnitType::DUT_FOOTLAMBERTS;79;Footlamberts
+OdBm::DisplayUnitType::DUT_CANDELAS_PER_SQUARE_METER;80;Candelas per square meter
+OdBm::DisplayUnitType::DUT_CANDELAS;81;Candelas
+OdBm::DisplayUnitType::DUT_CANDLEPOWER;82;ODBM_CSV_NULL
+OdBm::DisplayUnitType::DUT_LUMENS;83;Lumens
+OdBm::DisplayUnitType::DUT_VOLT_AMPERES;84;Volt-amperes
+OdBm::DisplayUnitType::DUT_KILOVOLT_AMPERES;85;Kilovolt-amperes
+OdBm::DisplayUnitType::DUT_HORSEPOWER;86;Horsepower
+OdBm::DisplayUnitType::DUT_NEWTONS;87;Newtons
+OdBm::DisplayUnitType::DUT_DECANEWTONS;88;Decanewtons
+OdBm::DisplayUnitType::DUT_KILONEWTONS;89;Kilonewtons
+OdBm::DisplayUnitType::DUT_MEGANEWTONS;90;Meganewtons
+OdBm::DisplayUnitType::DUT_KIPS;91;Kips
+OdBm::DisplayUnitType::DUT_KILOGRAMS_FORCE;92;Kilograms force
+OdBm::DisplayUnitType::DUT_TONNES_FORCE;93;Tonnes force
+OdBm::DisplayUnitType::DUT_POUNDS_FORCE;94;Pounds
+OdBm::DisplayUnitType::DUT_NEWTONS_PER_METER;95;Newtons per meter
+OdBm::DisplayUnitType::DUT_DECANEWTONS_PER_METER;96;Decanewtons per meter
+OdBm::DisplayUnitType::DUT_KILONEWTONS_PER_METER;97;Kilonewtons per meter
+OdBm::DisplayUnitType::DUT_MEGANEWTONS_PER_METER;98;Meganewtons per meter
+OdBm::DisplayUnitType::DUT_KIPS_PER_FOOT;99;Kips per foot
+OdBm::DisplayUnitType::DUT_KILOGRAMS_FORCE_PER_METER;100;Kilograms force per meter
+OdBm::DisplayUnitType::DUT_TONNES_FORCE_PER_METER;101;Tonnes force per meter
+OdBm::DisplayUnitType::DUT_POUNDS_FORCE_PER_FOOT;102;Pounds per foot
+OdBm::DisplayUnitType::DUT_NEWTONS_PER_SQUARE_METER;103;Newtons per square meter
+OdBm::DisplayUnitType::DUT_DECANEWTONS_PER_SQUARE_METER;104;Decanewtons per square meter
+OdBm::DisplayUnitType::DUT_KILONEWTONS_PER_SQUARE_METER;105;Kilonewtons per square meter
+OdBm::DisplayUnitType::DUT_MEGANEWTONS_PER_SQUARE_METER;106;Meganewtons per square meter
+OdBm::DisplayUnitType::DUT_KIPS_PER_SQUARE_FOOT;107;Kips per square foot
+OdBm::DisplayUnitType::DUT_KILOGRAMS_FORCE_PER_SQUARE_METER;108;Kilograms force per square meter
+OdBm::DisplayUnitType::DUT_TONNES_FORCE_PER_SQUARE_METER;109;Tonnes force per square meter
+OdBm::DisplayUnitType::DUT_POUNDS_FORCE_PER_SQUARE_FOOT;110;Pounds per square foot
+OdBm::DisplayUnitType::DUT_NEWTON_METERS;111;Newton-meters
+OdBm::DisplayUnitType::DUT_DECANEWTON_METERS;112;Decanewton-meters
+OdBm::DisplayUnitType::DUT_KILONEWTON_METERS;113;Kilonewton-meters
+OdBm::DisplayUnitType::DUT_MEGANEWTON_METERS;114;Meganewton-meters
+OdBm::DisplayUnitType::DUT_KIP_FEET;115;Kip-feet
+OdBm::DisplayUnitType::DUT_KILOGRAM_FORCE_METERS;116;Kilogram force-meters
+OdBm::DisplayUnitType::DUT_TONNE_FORCE_METERS;117;Tonne force-meters
+OdBm::DisplayUnitType::DUT_POUND_FORCE_FEET;118;Pound-feet
+OdBm::DisplayUnitType::DUT_METERS_PER_KILONEWTON;119;Meters per kilonewton
+OdBm::DisplayUnitType::DUT_FEET_PER_KIP;120;Feet per kip
+OdBm::DisplayUnitType::DUT_SQUARE_METERS_PER_KILONEWTON;121;Square meters per kilonewton
+OdBm::DisplayUnitType::DUT_SQUARE_FEET_PER_KIP;122;Square feet per kip
+OdBm::DisplayUnitType::DUT_CUBIC_METERS_PER_KILONEWTON;123;Cubic meters per kilonewton
+OdBm::DisplayUnitType::DUT_CUBIC_FEET_PER_KIP;124;Cubic feet per kip
+OdBm::DisplayUnitType::DUT_INV_KILONEWTONS;125;Inverse kilonewtons
+OdBm::DisplayUnitType::DUT_INV_KIPS;126;Inverse kips
+OdBm::DisplayUnitType::DUT_FEET_OF_WATER_PER_100FT;127;Feet of water (39.2 °F) per 100 feet
+OdBm::DisplayUnitType::DUT_FEET_OF_WATER;128;Feet of water (39.2 °F)
+OdBm::DisplayUnitType::DUT_PASCAL_SECONDS;129;Pascal seconds
+OdBm::DisplayUnitType::DUT_POUNDS_MASS_PER_FOOT_SECOND;130;Pounds per foot second
+OdBm::DisplayUnitType::DUT_CENTIPOISES;131;Centipoises
+OdBm::DisplayUnitType::DUT_FEET_PER_SECOND;132;Feet per second
+OdBm::DisplayUnitType::DUT_KIPS_PER_SQUARE_INCH;133;Kips per square inch
+OdBm::DisplayUnitType::DUT_KILONEWTONS_PER_CUBIC_METER;134;Kilonewtons per cubic meter
+OdBm::DisplayUnitType::DUT_POUNDS_FORCE_PER_CUBIC_FOOT;135;Pounds per cubic foot
+OdBm::DisplayUnitType::DUT_KIPS_PER_CUBIC_INCH;136;Kips per cubic inch
+OdBm::DisplayUnitType::DUT_INV_FAHRENHEIT;137;Inverse degrees Fahrenheit
+OdBm::DisplayUnitType::DUT_INV_CELSIUS;138;Inverse degrees Celsius
+OdBm::DisplayUnitType::DUT_NEWTON_METERS_PER_METER;139;Newton-meters per meter
+OdBm::DisplayUnitType::DUT_DECANEWTON_METERS_PER_METER;140;Decanewton-meters per meter
+OdBm::DisplayUnitType::DUT_KILONEWTON_METERS_PER_METER;141;Kilonewton-meters per meter
+OdBm::DisplayUnitType::DUT_MEGANEWTON_METERS_PER_METER;142;Meganewton-meters per meter
+OdBm::DisplayUnitType::DUT_KIP_FEET_PER_FOOT;143;Kip-feet per foot
+OdBm::DisplayUnitType::DUT_KILOGRAM_FORCE_METERS_PER_METER;144;Kilogram force-meters per meter
+OdBm::DisplayUnitType::DUT_TONNE_FORCE_METERS_PER_METER;145;Tonne force-meters per meter
+OdBm::DisplayUnitType::DUT_POUND_FORCE_FEET_PER_FOOT;146;Pound-feet per foot
+OdBm::DisplayUnitType::DUT_POUNDS_MASS_PER_FOOT_HOUR;147;Pounds per foot hour
+OdBm::DisplayUnitType::DUT_KIPS_PER_INCH;148;Kips per inch
+OdBm::DisplayUnitType::DUT_KIPS_PER_CUBIC_FOOT;149;Kips per cubic foot
+OdBm::DisplayUnitType::DUT_KIP_FEET_PER_DEGREE;150;Kip feet per degree
+OdBm::DisplayUnitType::DUT_KILONEWTON_METERS_PER_DEGREE;151;Kilonewton meters per degree
+OdBm::DisplayUnitType::DUT_KIP_FEET_PER_DEGREE_PER_FOOT;152;Kip feet per degree per foot
+OdBm::DisplayUnitType::DUT_KILONEWTON_METERS_PER_DEGREE_PER_METER;153;Kilonewton meters per degree per meter
+OdBm::DisplayUnitType::DUT_WATTS_PER_SQUARE_METER_KELVIN;154;Watts per square meter kelvin
+OdBm::DisplayUnitType::DUT_BRITISH_THERMAL_UNITS_PER_HOUR_SQUARE_FOOT_FAHRENHEIT;155;BTU (British Thermal Units) per hour square foot degree Fahrenheit
+OdBm::DisplayUnitType::DUT_CUBIC_FEET_PER_MINUTE_SQUARE_FOOT;156;Cubic feet per minute square foot
+OdBm::DisplayUnitType::DUT_LITERS_PER_SECOND_SQUARE_METER;157;Liters per second square meter
+OdBm::DisplayUnitType::DUT_RATIO_10;158;Ratio : 10
+OdBm::DisplayUnitType::DUT_RATIO_12;159;Ratio : 12
+OdBm::DisplayUnitType::DUT_SLOPE_DEGREES;160;Decimal degrees
+OdBm::DisplayUnitType::DUT_RISE_OVER_INCHES;161;Rise / 12"
+OdBm::DisplayUnitType::DUT_RISE_OVER_FOOT;162;Rise / 1' - 0"
+OdBm::DisplayUnitType::DUT_RISE_OVER_MMS;163;Rise / 1000 mm
+OdBm::DisplayUnitType::DUT_WATTS_PER_CUBIC_FOOT;164;Watts per cubic foot
+OdBm::DisplayUnitType::DUT_WATTS_PER_CUBIC_METER;165;Watts per cubic meter
+OdBm::DisplayUnitType::DUT_BRITISH_THERMAL_UNITS_PER_HOUR_SQUARE_FOOT;166;BTU (British Thermal Units) per hour square foot
+OdBm::DisplayUnitType::DUT_BRITISH_THERMAL_UNITS_PER_HOUR_CUBIC_FOOT;167;BTU (British Thermal Units) per hour cubic foot
+OdBm::DisplayUnitType::DUT_TON_OF_REFRIGERATION;168;Tons of refrigeration (12 000 BTU (British Thermal Units) per hour)
+OdBm::DisplayUnitType::DUT_CUBIC_FEET_PER_MINUTE_CUBIC_FOOT;169;Cubic feet per minute cubic foot
+OdBm::DisplayUnitType::DUT_LITERS_PER_SECOND_CUBIC_METER;170;Liters per second cubic meter
+OdBm::DisplayUnitType::DUT_CUBIC_FEET_PER_MINUTE_TON_OF_REFRIGERATION;171;Cubic feet per minute tons of refrigeration
+OdBm::DisplayUnitType::DUT_LITERS_PER_SECOND_KILOWATTS;172;Liters per second kilowatts
+OdBm::DisplayUnitType::DUT_SQUARE_FEET_PER_TON_OF_REFRIGERATION;173;Square feet per tons of refrigeration
+OdBm::DisplayUnitType::DUT_SQUARE_METERS_PER_KILOWATTS;174;Square meters per kilowatts
+OdBm::DisplayUnitType::DUT_CURRENCY;175;Currency
+OdBm::DisplayUnitType::DUT_LUMENS_PER_WATT;176;Lumens per watt
+OdBm::DisplayUnitType::DUT_SQUARE_FEET_PER_THOUSAND_BRITISH_THERMAL_UNITS_PER_HOUR;177;Square feet per thousand BTU (British Thermal Units) per hour
+OdBm::DisplayUnitType::DUT_KILONEWTONS_PER_SQUARE_CENTIMETER;178;Kilonewtons per square centimeter
+OdBm::DisplayUnitType::DUT_NEWTONS_PER_SQUARE_MILLIMETER;179;Newtons per square millimeter
+OdBm::DisplayUnitType::DUT_KILONEWTONS_PER_SQUARE_MILLIMETER;180;Kilonewtons per square millimeter
+OdBm::DisplayUnitType::DUT_RISE_OVER_120_INCHES;181;Rise / 120"
+OdBm::DisplayUnitType::DUT_1_RATIO;182;1 : Ratio
+OdBm::DisplayUnitType::DUT_RISE_OVER_10_FEET;183;Rise / 10'
+OdBm::DisplayUnitType::DUT_HOUR_SQUARE_FOOT_FAHRENHEIT_PER_BRITISH_THERMAL_UNIT;184;Hour square foot degree Fahrenheit per BTU (British Thermal Unit)
+OdBm::DisplayUnitType::DUT_SQUARE_METER_KELVIN_PER_WATT;185;Square meter kelvin per watt
+OdBm::DisplayUnitType::DUT_BRITISH_THERMAL_UNIT_PER_FAHRENHEIT;186;BTU per degree Fahrenheit
+OdBm::DisplayUnitType::DUT_JOULES_PER_KELVIN;187;Joules per degree Kelvin
+OdBm::DisplayUnitType::DUT_KILOJOULES_PER_KELVIN;188;Kilojoules per degree Kelvin
+OdBm::DisplayUnitType::DUT_KILOGRAMS_MASS;189;Kilograms
+OdBm::DisplayUnitType::DUT_TONNES_MASS;190;Tonnes
+OdBm::DisplayUnitType::DUT_POUNDS_MASS;191;Pounds
+OdBm::DisplayUnitType::DUT_METERS_PER_SECOND_SQUARED;192;Meters per second squared
+OdBm::DisplayUnitType::DUT_KILOMETERS_PER_SECOND_SQUARED;193;Kilometers per second squared
+OdBm::DisplayUnitType::DUT_INCHES_PER_SECOND_SQUARED;194;Inches per second squared
+OdBm::DisplayUnitType::DUT_FEET_PER_SECOND_SQUARED;195;Feet per second squared
+OdBm::DisplayUnitType::DUT_MILES_PER_SECOND_SQUARED;196;Miles per second squared
+OdBm::DisplayUnitType::DUT_FEET_TO_THE_FOURTH_POWER;197;Feet to the fourth power
+OdBm::DisplayUnitType::DUT_INCHES_TO_THE_FOURTH_POWER;198;Inches to the fourth power
+OdBm::DisplayUnitType::DUT_MILLIMETERS_TO_THE_FOURTH_POWER;199;Millimeters to the fourth power
+OdBm::DisplayUnitType::DUT_CENTIMETERS_TO_THE_FOURTH_POWER;200;Centimeters to the fourth power
+OdBm::DisplayUnitType::DUT_METERS_TO_THE_FOURTH_POWER;201;Meters to the fourth power
+OdBm::DisplayUnitType::DUT_FEET_TO_THE_SIXTH_POWER;202;Feet to the sixth power
+OdBm::DisplayUnitType::DUT_INCHES_TO_THE_SIXTH_POWER;203;Inches to the sixth power
+OdBm::DisplayUnitType::DUT_MILLIMETERS_TO_THE_SIXTH_POWER;204;Millimeters to the sixth power
+OdBm::DisplayUnitType::DUT_CENTIMETERS_TO_THE_SIXTH_POWER;205;Centimeters to the sixth power
+OdBm::DisplayUnitType::DUT_METERS_TO_THE_SIXTH_POWER;206;Meters to the sixth power
+OdBm::DisplayUnitType::DUT_SQUARE_FEET_PER_FOOT;207;Square feet per foot
+OdBm::DisplayUnitType::DUT_SQUARE_INCHES_PER_FOOT;208;Square inches per foot
+OdBm::DisplayUnitType::DUT_SQUARE_MILLIMETERS_PER_METER;209;Square millimeters per meter
+OdBm::DisplayUnitType::DUT_SQUARE_CENTIMETERS_PER_METER;210;Square centimeters per meter
+OdBm::DisplayUnitType::DUT_SQUARE_METERS_PER_METER;211;Square meters per meter
+OdBm::DisplayUnitType::DUT_KILOGRAMS_MASS_PER_METER;212;Kilograms per meter
+OdBm::DisplayUnitType::DUT_POUNDS_MASS_PER_FOOT;213;Pounds per foot
+OdBm::DisplayUnitType::DUT_RADIANS;214;Radians
+OdBm::DisplayUnitType::DUT_GRADS;215;Grads
+OdBm::DisplayUnitType::DUT_RADIANS_PER_SECOND;216;Radians per second
+OdBm::DisplayUnitType::DUT_MILISECONDS;217;Milliseconds
+OdBm::DisplayUnitType::DUT_SECONDS;218;Seconds
+OdBm::DisplayUnitType::DUT_MINUTES;219;Minutes
+OdBm::DisplayUnitType::DUT_HOURS;220;Hours
+OdBm::DisplayUnitType::DUT_KILOMETERS_PER_HOUR;221;Kilometers per hour
+OdBm::DisplayUnitType::DUT_MILES_PER_HOUR;222;Miles per hour
+OdBm::DisplayUnitType::DUT_KILOJOULES;223;Kilojoules
+OdBm::DisplayUnitType::DUT_KILOGRAMS_MASS_PER_SQUARE_METER;224;Kilograms per square meter
+OdBm::DisplayUnitType::DUT_POUNDS_MASS_PER_SQUARE_FOOT;225;Pounds per square foot
+OdBm::DisplayUnitType::DUT_WATTS_PER_METER_KELVIN;226;Watts per meter kelvin
+OdBm::DisplayUnitType::DUT_JOULES_PER_GRAM_CELSIUS;227;Joules per gram Celsius
+OdBm::DisplayUnitType::DUT_JOULES_PER_GRAM;228;Joules per gram
+OdBm::DisplayUnitType::DUT_NANOGRAMS_PER_PASCAL_SECOND_SQUARE_METER;229;Nanograms per pascal second square meter
+OdBm::DisplayUnitType::DUT_OHM_METERS;230;Ohm meters
+OdBm::DisplayUnitType::DUT_BRITISH_THERMAL_UNITS_PER_HOUR_FOOT_FAHRENHEIT;231;BTU (British Thermal Units) per hour foot degree Fahrenheit
+OdBm::DisplayUnitType::DUT_BRITISH_THERMAL_UNITS_PER_POUND_FAHRENHEIT;232;BTU (British Thermal Units) per pound Fahrenheit
+OdBm::DisplayUnitType::DUT_BRITISH_THERMAL_UNITS_PER_POUND;233;BTU (British Thermal Units) per pound
+OdBm::DisplayUnitType::DUT_GRAINS_PER_HOUR_SQUARE_FOOT_INCH_MERCURY;234;Grains per hour square foot inch mercury
+OdBm::DisplayUnitType::DUT_PER_MILLE;235;Per mille
+OdBm::DisplayUnitType::DUT_DECIMETERS;236;Decimeters
+OdBm::DisplayUnitType::DUT_JOULES_PER_KILOGRAM_CELSIUS;237;Joules per kilogram Celsius
+OdBm::DisplayUnitType::DUT_MICROMETERS_PER_METER_CELSIUS;238;Micrometers per meter Celsius
+OdBm::DisplayUnitType::DUT_MICROINCHES_PER_INCH_FAHRENHEIT;239;Microinches per inch Fahrenheit
+OdBm::DisplayUnitType::DUT_USTONNES_MASS;240;US tonnes
+OdBm::DisplayUnitType::DUT_USTONNES_FORCE;241;US tonnes
+OdBm::DisplayUnitType::DUT_LITERS_PER_MINUTE;242;Liters per minute
+OdBm::DisplayUnitType::DUT_FAHRENHEIT_DIFFERENCE;243;Fahrenheit
+OdBm::DisplayUnitType::DUT_CELSIUS_DIFFERENCE;244;Celsius
+OdBm::DisplayUnitType::DUT_KELVIN_DIFFERENCE;245;Kelvin
+OdBm::DisplayUnitType::DUT_RANKINE_DIFFERENCE;246;Rankine

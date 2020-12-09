@@ -1,0 +1,158 @@
+<ControllerSpecification>
+  <ActiveController>
+    <MQTTServerSettings>
+      <Name />
+      <IPAddress>127.0.0.1</IPAddress>
+      <Port>1883</Port>
+      <SecuredConnection>False</SecuredConnection>
+      <UserName />
+      <Password />
+      <QoS>AtMostOnce</QoS>
+    </MQTTServerSettings>
+    <Inputs />
+    <Outputs>
+      <!--OUTPUTS 'MqttReceiver' of type: 'MqttReceiver-->
+      <Output>
+        <Name>__MqttReceiver_rotate</Name>
+        <Address>rotate</Address>
+        <Type>REAL32</Type>
+        <Description>DEF: BrushValue</Description>
+        <Initvalue>0</Initvalue>
+        <Priority>0</Priority>
+        <Fidelity>-1</Fidelity>
+      </Output>
+      <!--OUTPUTS 'MqttReceiver' of type: 'MqttReceiver-->
+      <Output>
+        <Name>__MqttReceiver_extend</Name>
+        <Address>extend</Address>
+        <Type>REAL32</Type>
+        <Description>DEF: PistonValue</Description>
+        <Initvalue>0</Initvalue>
+        <Priority>0</Priority>
+        <Fidelity>-1</Fidelity>
+      </Output>
+      <!--OUTPUTS 'MqttReceiver' of type: 'MqttReceiver-->
+      <Output>
+        <Name>__MqttReceiver_tilt</Name>
+        <Address>tilt</Address>
+        <Type>REAL32</Type>
+        <Description>DEF: BucketValue</Description>
+        <Initvalue>0</Initvalue>
+        <Priority>0</Priority>
+        <Fidelity>-1</Fidelity>
+      </Output>
+      <!--OUTPUTS 'MqttReceiver' of type: 'MqttReceiver-->
+      <Output>
+        <Name>__MqttReceiver_lift</Name>
+        <Address>lift</Address>
+        <Type>REAL32</Type>
+        <Description>DEF: BoomValue</Description>
+        <Initvalue>0</Initvalue>
+        <Priority>0</Priority>
+        <Fidelity>-1</Fidelity>
+      </Output>
+    </Outputs>
+    <Variables />
+  </ActiveController>
+  <TypeDefinitions>
+    <Basetypes>
+      <BaseType>
+        <Name>STRING</Name>
+        <Bytes>81</Bytes>
+        <LeadBytes>0</LeadBytes>
+        <TrailBytes>0</TrailBytes>
+      </BaseType>
+      <BaseType>
+        <Name>BOOL</Name>
+        <Bytes>1</Bytes>
+        <LeadBytes>0</LeadBytes>
+        <TrailBytes>0</TrailBytes>
+      </BaseType>
+      <BaseType>
+        <Name>BYTE</Name>
+        <Bytes>1</Bytes>
+        <LeadBytes>0</LeadBytes>
+        <TrailBytes>0</TrailBytes>
+      </BaseType>
+      <BaseType>
+        <Name>SBYTE</Name>
+        <Bytes>1</Bytes>
+        <LeadBytes>0</LeadBytes>
+        <TrailBytes>0</TrailBytes>
+      </BaseType>
+      <BaseType>
+        <Name>WORD</Name>
+        <Bytes>2</Bytes>
+        <LeadBytes>0</LeadBytes>
+        <TrailBytes>0</TrailBytes>
+      </BaseType>
+      <BaseType>
+        <Name>DWORD</Name>
+        <Bytes>4</Bytes>
+        <LeadBytes>0</LeadBytes>
+        <TrailBytes>0</TrailBytes>
+      </BaseType>
+      <BaseType>
+        <Name>SHORT</Name>
+        <Bytes>2</Bytes>
+        <LeadBytes>0</LeadBytes>
+        <TrailBytes>0</TrailBytes>
+      </BaseType>
+      <BaseType>
+        <Name>USHORT</Name>
+        <Bytes>2</Bytes>
+        <LeadBytes>0</LeadBytes>
+        <TrailBytes>0</TrailBytes>
+      </BaseType>
+      <BaseType>
+        <Name>INT16</Name>
+        <Bytes>2</Bytes>
+        <LeadBytes>0</LeadBytes>
+        <TrailBytes>0</TrailBytes>
+      </BaseType>
+      <BaseType>
+        <Name>UINT16</Name>
+        <Bytes>2</Bytes>
+        <LeadBytes>0</LeadBytes>
+        <TrailBytes>0</TrailBytes>
+      </BaseType>
+      <BaseType>
+        <Name>INT32</Name>
+        <Bytes>4</Bytes>
+        <LeadBytes>0</LeadBytes>
+        <TrailBytes>0</TrailBytes>
+      </BaseType>
+      <BaseType>
+        <Name>UINT32</Name>
+        <Bytes>4</Bytes>
+        <LeadBytes>0</LeadBytes>
+        <TrailBytes>0</TrailBytes>
+      </BaseType>
+      <BaseType>
+        <Name>INT64</Name>
+        <Bytes>8</Bytes>
+        <LeadBytes>0</LeadBytes>
+        <TrailBytes>0</TrailBytes>
+      </BaseType>
+      <BaseType>
+        <Name>UINT64</Name>
+        <Bytes>8</Bytes>
+        <LeadBytes>0</LeadBytes>
+        <TrailBytes>0</TrailBytes>
+      </BaseType>
+      <BaseType>
+        <Name>REAL32</Name>
+        <Bytes>4</Bytes>
+        <LeadBytes>0</LeadBytes>
+        <TrailBytes>0</TrailBytes>
+      </BaseType>
+      <BaseType>
+        <Name>REAL64</Name>
+        <Bytes>8</Bytes>
+        <LeadBytes>0</LeadBytes>
+        <TrailBytes>0</TrailBytes>
+      </BaseType>
+    </Basetypes>
+    <Structs />
+  </TypeDefinitions>
+</ControllerSpecification>

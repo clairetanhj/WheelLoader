@@ -1,0 +1,38 @@
+#logo
+{
+	width: 350px;
+	height: 80px;
+	margin-bottom: 20px;
+}
+
+.settings-table {
+	flex-direction: row;
+}
+
+.settings-column {
+	width: 145px;
+	margin-right: 10px;
+}
+
+.settings-table-cell {
+	height: 20px;
+	margin-bottom: 4px;
+}
+
+.wrong-setting {
+	color: rgb(254, 83, 74);
+}
+
+.warning-icon {
+	width: 24px;
+	height: 24px;
+	margin-right: 8px;
+}
+
+.menu-button {
+	-unity-font-style: bold;
+	-unity-text-align: middle-left;
+	height: 20px;
+	border-radius: 0px;
+	margin-bottom: 8px;
+}

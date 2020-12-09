@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 836f698e6f19c9540a294105379a6834, type: 3}
+  m_Name: WheelLoaderVehicleInputSettings
+  m_EditorClassIdentifier: 
+  toggleEngine: 116
+  acceleration: 119
+  reverse: 115
+  turnRight: 100
+  turnLeft: 97
+  brakes: 32
+  handbrake: 306
+  clutch: 304
+  horn: 104
+  headlights: 108
+  interiorLights: 105
+  leftSignalLights: 49
+  rightSignalLights: 50
+  cameraLookRight: 275
+  cameraLookLeft: 276
+  cameraLookBack: 274
+  cameraLookUp: 273
+  cameraLookDown: 256
+  toggleCamera: 99
+  customEventTriggers: 6500000072000000

@@ -1,0 +1,135 @@
+NAME(Used only as reminder for value);VALUE;LABEL
+OdBm::UnitType::UT_Undefined;-2;ODBM_CSV_NULL
+OdBm::UnitType::UT_Custom;-1;ODBM_CSV_NULL
+OdBm::UnitType::UT_Length;0;Length
+OdBm::UnitType::UT_Area;1;Area
+OdBm::UnitType::UT_Volume;2;Volume
+OdBm::UnitType::UT_Angle;3;Angle
+OdBm::UnitType::UT_Number;4;Number
+OdBm::UnitType::UT_SheetLength;5;Sheet Length
+OdBm::UnitType::UT_SiteAngle;6;Site Angle
+OdBm::UnitType::UT_HVAC_Density;7;Density
+OdBm::UnitType::UT_HVAC_Energy;8;Energy
+OdBm::UnitType::UT_HVAC_Friction;9;Friction
+OdBm::UnitType::UT_HVAC_Power;10;Power
+OdBm::UnitType::UT_HVAC_Power_Density;11;Power Density
+OdBm::UnitType::UT_HVAC_Pressure;12;Pressure
+OdBm::UnitType::UT_HVAC_Temperature;13;Temperature
+OdBm::UnitType::UT_HVAC_Velocity;14;Velocity
+OdBm::UnitType::UT_HVAC_Airflow;15;Air Flow
+OdBm::UnitType::UT_HVAC_DuctSize;16;Duct Size
+OdBm::UnitType::UT_HVAC_CrossSection;17;Cross Section
+OdBm::UnitType::UT_HVAC_HeatGain;18;Heat Gain
+OdBm::UnitType::UT_Electrical_Current;19;Current
+OdBm::UnitType::UT_Electrical_Potential;20;Electrical Potential
+OdBm::UnitType::UT_Electrical_Frequency;21;Frequency
+OdBm::UnitType::UT_Electrical_Illuminance;22;Illuminance
+OdBm::UnitType::UT_Electrical_Luminous_Flux;23;Luminous Flux
+OdBm::UnitType::UT_Electrical_Power;24;Power
+OdBm::UnitType::UT_HVAC_Roughness;25;Roughness
+OdBm::UnitType::UT_Force;26;Force
+OdBm::UnitType::UT_LinearForce;27;Linear Force
+OdBm::UnitType::UT_AreaForce;28;Area Force
+OdBm::UnitType::UT_Moment;29;Moment
+OdBm::UnitType::UT_ForceScale;30;Force Scale
+OdBm::UnitType::UT_LinearForceScale;31;Linear Force Scale
+OdBm::UnitType::UT_AreaForceScale;32;Area Force Scale
+OdBm::UnitType::UT_MomentScale;33;Moment Scale
+OdBm::UnitType::UT_Electrical_Apparent_Power;34;Apparent Power
+OdBm::UnitType::UT_Electrical_Power_Density;35;Power Density
+OdBm::UnitType::UT_Piping_Density;36;Density
+OdBm::UnitType::UT_Piping_Flow;37;Flow
+OdBm::UnitType::UT_Piping_Friction;38;Friction
+OdBm::UnitType::UT_Piping_Pressure;39;Pressure
+OdBm::UnitType::UT_Piping_Temperature;40;Temperature
+OdBm::UnitType::UT_Piping_Velocity;41;Velocity
+OdBm::UnitType::UT_Piping_Viscosity;42;Dynamic Viscosity
+OdBm::UnitType::UT_PipeSize;43;Pipe Size
+OdBm::UnitType::UT_Piping_Roughness;44;Roughness
+OdBm::UnitType::UT_Stress;45;Stress
+OdBm::UnitType::UT_UnitWeight;46;Unit Weight
+OdBm::UnitType::UT_ThermalExpansion;47;Thermal Expansion Coefficient
+OdBm::UnitType::UT_LinearMoment;48;Linear Moment
+OdBm::UnitType::UT_LinearMomentScale;49;Linear Moment Scale
+OdBm::UnitType::UT_ForcePerLength;50;Point Spring Coefficient
+OdBm::UnitType::UT_ForceLengthPerAngle;51;Rotational Point Spring Coefficient
+OdBm::UnitType::UT_LinearForcePerLength;52;Line Spring Coefficient
+OdBm::UnitType::UT_LinearForceLengthPerAngle;53;Rotational Line Spring Coefficient
+OdBm::UnitType::UT_AreaForcePerLength;54;Area Spring Coefficient
+OdBm::UnitType::UT_Piping_Volume;55;Volume
+OdBm::UnitType::UT_HVAC_Viscosity;56;Dynamic Viscosity
+OdBm::UnitType::UT_HVAC_CoefficientOfHeatTransfer;57;Coefficient of Heat Transfer
+OdBm::UnitType::UT_HVAC_Airflow_Density;58;Air Flow Density
+OdBm::UnitType::UT_Slope;59;Slope
+OdBm::UnitType::UT_HVAC_Cooling_Load;60;Cooling Load
+OdBm::UnitType::UT_HVAC_Cooling_Load_Divided_By_Area;61;Cooling Load divided by Area
+OdBm::UnitType::UT_HVAC_Cooling_Load_Divided_By_Volume;62;Cooling Load divided by Volume
+OdBm::UnitType::UT_HVAC_Heating_Load;63;Heating Load
+OdBm::UnitType::UT_HVAC_Heating_Load_Divided_By_Area;64;Heating Load divided by Area
+OdBm::UnitType::UT_HVAC_Heating_Load_Divided_By_Volume;65;Heating Load divided by Volume
+OdBm::UnitType::UT_HVAC_Airflow_Divided_By_Volume;66;Air Flow divided by Volume
+OdBm::UnitType::UT_HVAC_Airflow_Divided_By_Cooling_Load;67;Air Flow divided by Cooling Load
+OdBm::UnitType::UT_HVAC_Area_Divided_By_Cooling_Load;68;Area divided by Cooling Load
+OdBm::UnitType::UT_WireSize;69;Wire Diameter
+OdBm::UnitType::UT_HVAC_Slope;70;Slope
+OdBm::UnitType::UT_Piping_Slope;71;Slope
+OdBm::UnitType::UT_Currency;72;Currency
+OdBm::UnitType::UT_Electrical_Efficacy;73;Efficacy
+OdBm::UnitType::UT_Electrical_Wattage;74;Wattage
+OdBm::UnitType::UT_Color_Temperature;75;Color Temperature
+OdBm::UnitType::UT_DecSheetLength;76;Sheet Length
+OdBm::UnitType::UT_Electrical_Luminous_Intensity;77;Luminous Intensity
+OdBm::UnitType::UT_Electrical_Luminance;78;Luminance
+OdBm::UnitType::UT_HVAC_Area_Divided_By_Heating_Load;79;Area divided by Heating Load
+OdBm::UnitType::UT_HVAC_Factor;80;Factor
+OdBm::UnitType::UT_Electrical_Temperature;81;Temperature
+OdBm::UnitType::UT_Electrical_CableTraySize;82;Cable Tray Size
+OdBm::UnitType::UT_Electrical_ConduitSize;83;Conduit Size
+OdBm::UnitType::UT_Reinforcement_Volume;84;Reinforcement Volume
+OdBm::UnitType::UT_Reinforcement_Length;85;Reinforcement Length
+OdBm::UnitType::UT_Electrical_Demand_Factor;86;Demand Factor
+OdBm::UnitType::UT_HVAC_DuctInsulationThickness;87;Duct Insulation Thickness
+OdBm::UnitType::UT_HVAC_DuctLiningThickness;88;Duct Lining Thickness
+OdBm::UnitType::UT_PipeInsulationThickness;89;Pipe Insulation Thickness
+OdBm::UnitType::UT_HVAC_ThermalResistance;90;Thermal Resistance
+OdBm::UnitType::UT_HVAC_ThermalMass;91;Thermal Mass
+OdBm::UnitType::UT_Acceleration;92;Acceleration
+OdBm::UnitType::UT_Bar_Diameter;93;Bar Diameter
+OdBm::UnitType::UT_Crack_Width;94;Crack Width
+OdBm::UnitType::UT_Displacement_Deflection;95;Displacement/Deflection
+OdBm::UnitType::UT_Energy;96;Energy
+OdBm::UnitType::UT_Structural_Frequency;97;Frequency
+OdBm::UnitType::UT_Mass;98;Mass
+OdBm::UnitType::UT_Mass_per_Unit_Length;99;Mass per Unit Length
+OdBm::UnitType::UT_Moment_of_Inertia;100;Moment of Inertia
+OdBm::UnitType::UT_Surface_Area;101;Surface Area per Unit Length
+OdBm::UnitType::UT_Period;102;Period
+OdBm::UnitType::UT_Pulsation;103;Pulsation
+OdBm::UnitType::UT_Reinforcement_Area;104;Reinforcement Area
+OdBm::UnitType::UT_Reinforcement_Area_per_Unit_Length;105;Reinforcement Area per Unit Length
+OdBm::UnitType::UT_Reinforcement_Cover;106;Reinforcement Cover
+OdBm::UnitType::UT_Reinforcement_Spacing;107;Reinforcement Spacing
+OdBm::UnitType::UT_Rotation;108;Rotation
+OdBm::UnitType::UT_Section_Area;109;Section Area
+OdBm::UnitType::UT_Section_Dimension;110;Section Dimension
+OdBm::UnitType::UT_Section_Modulus;111;Section Modulus
+OdBm::UnitType::UT_Section_Property;112;Section Property
+OdBm::UnitType::UT_Structural_Velocity;113;Velocity
+OdBm::UnitType::UT_Warping_Constant;114;Warping Constant
+OdBm::UnitType::UT_Weight;115;Weight
+OdBm::UnitType::UT_Weight_per_Unit_Length;116;Weight per Unit Length
+OdBm::UnitType::UT_HVAC_ThermalConductivity;117;Thermal Conductivity
+OdBm::UnitType::UT_HVAC_SpecificHeat;118;Specific Heat
+OdBm::UnitType::UT_HVAC_SpecificHeatOfVaporization;119;Specific Heat of Vaporization
+OdBm::UnitType::UT_HVAC_Permeability;120;Permeability
+OdBm::UnitType::UT_Electrical_Resistivity;121;Electrical Resistivity
+OdBm::UnitType::UT_MassDensity;122;Mass Density
+OdBm::UnitType::UT_MassPerUnitArea;123;Mass per Unit Area
+OdBm::UnitType::UT_Pipe_Dimension;124;Pipe Dimension
+OdBm::UnitType::UT_PipeMass;125;Mass
+OdBm::UnitType::UT_PipeMassPerUnitLength;126;Mass per Unit Length
+OdBm::UnitType::UT_HVAC_TemperatureDifference;127;Temperature Difference
+OdBm::UnitType::UT_Piping_TemperatureDifference;128;Temperature Difference
+OdBm::UnitType::UT_Electrical_TemperatureDifference;129;Temperature Difference
+OdBm::UnitType::UT_TimeInterval;130;Time
+OdBm::UnitType::UT_Speed;131;Speed
