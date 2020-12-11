@@ -177,7 +177,7 @@ namespace WSMGameStudio.HeavyMachinery
         /// Recalculate movement input based on current value
         /// </summary>
         /// <param name="current"></param>
-        private void RecalculateMovementInput(Vector3 current)
+        public void RecalculateMovementInput(Vector3 current)
         {
             float totalDistance = Mathf.Abs(Vector3.Distance(_max, _min));
             float currentDistance = Mathf.Abs(Vector3.Distance(current, _min));

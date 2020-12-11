@@ -505,16 +505,16 @@ MonoBehaviour:
   - name: CONSTRAINT_GROUP
     passNo: 5
     relations:
-    - relation: {fileID: 743077510}
-      targetPass: 0
     - relation: {fileID: 2004852723}
+      targetPass: 0
+    - relation: {fileID: 743077510}
       targetPass: 0
   - name: EVALUATION_PASS
     passNo: 7
     relations:
-    - relation: {fileID: 743077510}
-      targetPass: 1
     - relation: {fileID: 2004852723}
+      targetPass: 1
+    - relation: {fileID: 743077510}
       targetPass: 1
   checkForNewRelationsOutsidePlaymodeInterval: 0.3
 --- !u!1 &685162913
@@ -593,13 +593,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 685162913}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: 0, y: -0.8191521, z: 0, w: 0.57357645}
+  m_LocalPosition: {x: 6.1, y: 6.87, z: 8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -110, z: 0}
 --- !u!4 &721059984 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7805064061518970706, guid: b0ae35880c0c93079a6201aabe87892d,
@@ -858,6 +858,7 @@ GameObject:
   m_Component:
   - component: {fileID: 824518473}
   - component: {fileID: 824518474}
+  - component: {fileID: 824518472}
   m_Layer: 0
   m_Name: MainController
   m_TagString: Untagged
@@ -865,6 +866,26 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &824518472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 824518471}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44432829142114f49a2608667af19a45, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bucketPivot: {fileID: 228411129}
+  bucketPivotMinBound: {x: 0, y: 0, z: 0}
+  bucketPivotMaxBound: {x: 0, y: 0, z: 0}
+  bucketPivotScale: 0
+  loaderFrame: {fileID: 114204272902919746}
+  loaderFrameMinBound: {x: 0, y: 0, z: 0}
+  loaderFrameMaxBound: {x: 0, y: 0, z: 0}
+  loaderFrameScale: 0
 --- !u!4 &824518473
 Transform:
   m_ObjectHideFlags: 0
